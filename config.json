@@ -1,7 +1,21 @@
 {
     "prompts": [
         "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
-        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer"
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer"        
     ],
     "bps": 0.4878048780487805,
     "fps": 24,
