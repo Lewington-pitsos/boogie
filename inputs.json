@@ -1,0 +1,15 @@
+{
+    "prompts": [
+        "a road running through a bare desert to a flat horizon, clouds overhead by artist Paul Cézanne --neg nfixer, nartfixer",
+        "close up, portrait, an old, sad man walking alone in the desert by artist Paul Cézanne --neg nfixer, nartfixer"
+    ],
+    "bps": 0.4878048780487805,
+    "fps": 24,
+    "prompts_per_beat": 1,
+    "total_frames": 120,
+    "super_high_strength": 0.8,
+    "high_strength": 0.72,
+    "low_strength": 0.05,
+    "settings_file": "settings.txt",
+    "video_settings_file": "settings-video.txt"
+}
